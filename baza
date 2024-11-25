@@ -1,0 +1,10 @@
+BAZA DANYCH
+salon kosmetyczny
+
+klienci
+id, nazwisko, imie
+wizyty
+id, nazwa, idklienta, idpracownika, data
+pracownicy
+id, imie_p, nazwisko_p
+
